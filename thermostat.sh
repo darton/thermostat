@@ -1,6 +1,7 @@
 #!/bin/bash
 
-#Relays from Kamami NetTemp Board https://kamami.pl/kamod-kamami/559377-nettemp-pi-hat-modul-nettemp-dla-komputera-raspberry-pi.html
+#Relays from Kamami NetTemp Board with Nettemp software.
+#https://kamami.pl/kamod-kamami/559377-nettemp-pi-hat-modul-nettemp-dla-komputera-raspberry-pi.html
     relayA=23
     relayB=21
     relayC=22
